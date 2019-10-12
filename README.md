@@ -5,19 +5,19 @@ List of ENIX projects, mining pools, compute pools, data-store pools and guides.
 https://enix.ai
 
 ## Clients
-1. Classic-Geth
+1. [Classic-Geth](https://github.com/Enix-Blockchain-Element/go-enix/releases)
 
 ## Dapps
 1. https://enix.ai AI focused/based technologies/products/solutions intergrated to Enix Blockchain as seed systems.
 
 ## Infrastructure
-1. EnixNode
+1. Enix Node
 
 ## Developer Tools
-1. Open-RPC (https://explorer.enix.ai)
+1. Open-RPC - https://rpc.enix.ai 
 
 ## Mining Pools
-1. Coming Soon
+1. [Arhash](http://enix.arhash.xyz)
 
 ## Compute Pools
 1. Coming Soon
@@ -26,14 +26,14 @@ https://enix.ai
 1. Comming Soon
 
 ## Exchanges
-1. Mercatox (UK)
-2. TradeCX (Unknown)
+1. [Mercatox (UK)](https://mercatox.com/)
+2. [TradeCX (Unknown)](https://tradecx.io)
 
 ## Block Explorers
 1. https://explorer.enix.ai 
 
 ## Hardware, Software Wallets
 1. https://www.ledger.com/
-2. Enix Wallet (Mac/Linux)
+2. [Enix Wallet (Mac / Linux / Windows)](https://github.com/Enix-Blockchain-Element/desktop-wallet/releases)
 3. https://wallet.enix.ai (web-wallet)
 
