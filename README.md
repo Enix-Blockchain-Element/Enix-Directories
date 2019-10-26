@@ -1,6 +1,9 @@
 # Enix-Directories
 List of ENIX projects, mining pools, compute pools, data-store pools and guides.
 
+## Exchanges supporting Enix.
+1. https://tradecx.io/markets/enixbtc TradeCX 
+
 ## Foundation (non-steerage of blockchain/no control/)
 https://enix.ai
 
