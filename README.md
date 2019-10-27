@@ -32,7 +32,6 @@ https://enix.ai
 1. https://explorer.enix.ai 
 
 ## Hardware, Software Wallets
-1. https://www.ledger.com/
-2. [Enix Wallet (Mac / Linux / Windows)](https://github.com/Enix-Blockchain-Element/desktop-wallet/releases)
-3. https://wallet.enix.ai (web-wallet)
+1,2,3. [Enix Wallet (Mac / Linux / Windows)](https://github.com/Enix-Blockchain-Element/desktop-wallet/releases)
+4. https://wallet.enix.ai (web-wallet)
 
