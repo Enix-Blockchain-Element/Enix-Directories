@@ -28,10 +28,6 @@ https://enix.ai
 ## Data-Store Pools
 1. Comming Soon
 
-## Exchanges
-1. [Mercatox (UK)](https://mercatox.com/)
-2. [TradeCX (Unknown)](https://tradecx.io)
-
 ## Block Explorers
 1. https://explorer.enix.ai 
 
