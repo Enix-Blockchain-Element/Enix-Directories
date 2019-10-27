@@ -32,6 +32,8 @@ https://enix.ai
 1. https://explorer.enix.ai 
 
 ## Hardware, Software Wallets
-1,2,3. [Enix Wallet (Mac / Linux / Windows)](https://github.com/Enix-Blockchain-Element/desktop-wallet/releases)
+1. Linux Wallet https://github.com/Enix-Blockchain-Element/desktop-wallet/releases/download/v1.0.0/EnixWallet-V1.0.0-Linux.zip
+2. Mac Wallet https://github.com/Enix-Blockchain-Element/desktop-wallet/releases/download/v1.0.0/EnixWallet-V1.0.0-macOS.zip
+3. Windows Wallet https://github.com/Enix-Blockchain-Element/desktop-wallet/releases/download/v1.0.0/EnixWallet-V1.0.0-Windows.zip
 4. https://wallet.enix.ai (web-wallet)
 
