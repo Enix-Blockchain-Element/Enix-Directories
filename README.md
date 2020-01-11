@@ -21,7 +21,7 @@ https://enix.ai
 
 ## Mining Pools
 1. [Arhash](http://enix.arhash.xyz)
-
+2. https://miningpoolstats.stream/enix
 ## Compute Pools
 1. Coming Soon
 
